@@ -1,0 +1,7 @@
+1- His audio aura will be with a lot of energy and danceability
+
+SQL i used: SELECT AVG(energy) AS energytot, AVG(valence) AS valencetot, AVG(danceability) AS dancetot
+FROM songs
+
+
+2- Adding more music mood options
